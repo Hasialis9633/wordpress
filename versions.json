@@ -6,14 +6,14 @@
       "8.4",
       "8.5"
     ],
-    "sha1": "38ff2fb99f54c86b1d9934a5886fd3f0bff7c6f4",
-    "upstream": "7.0-beta3",
+    "sha1": "39fb83adc384a045374eddbcdf9c7c656e411067",
+    "upstream": "7.0-beta4",
     "variants": [
       "apache",
       "fpm",
       "fpm-alpine"
     ],
-    "version": "7.0-beta3"
+    "version": "7.0-beta4"
   },
   "cli": {
     "phpVersions": [
@@ -35,13 +35,13 @@
       "8.4",
       "8.5"
     ],
-    "sha1": "2914d37c00597e6216a88f90e22b1b4c7bbd09e8",
-    "upstream": "6.9.1",
+    "sha1": "1d7968cff4007c48d7dc0bec229334d090de95a4",
+    "upstream": "6.9.3",
     "variants": [
       "apache",
       "fpm",
       "fpm-alpine"
     ],
-    "version": "6.9.1"
+    "version": "6.9.3"
   }
 }
